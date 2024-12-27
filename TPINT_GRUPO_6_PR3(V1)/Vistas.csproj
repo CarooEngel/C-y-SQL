@@ -1,0 +1,307 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{43C63A4F-9644-4EAC-B969-861B362063FF}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TPINT_GRUPO_6_PR3_V1_</RootNamespace>
+    <AssemblyName>TPINT_GRUPO_6_PR3%28V1%29</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44306</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ABMLmedico.aspx" />
+    <Content Include="ABMLpacientes.aspx" />
+    <Content Include="ABMLturnos.aspx" />
+    <Content Include="Administrador.aspx" />
+    <Content Include="AgregarTurnos.aspx" />
+    <Content Include="AltaMedico.aspx" />
+    <Content Include="altaMedicoHorario.aspx" />
+    <Content Include="AltaUsuarioNuevo.aspx" />
+    <Content Include="BajaLogicaMedico.aspx" />
+    <Content Include="bajaLogicaPacientes.aspx" />
+    <Content Include="BajaLogicaTurno.aspx" />
+    <Content Include="CargaPacientes.aspx" />
+    <Content Include="Css\Headers.css" />
+    <Content Include="Css\masterPage.css" />
+    <Content Include="InformesPaciente.aspx" />
+    <Content Include="ListadoPacientes.aspx" />
+    <Content Include="ListadoTurnos.aspx" />
+    <Content Include="ListarAltaMedicoHorario.aspx" />
+    <Content Include="ListarMedico.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Medico.aspx" />
+    <Content Include="Web.config">
+      <BrowseToURL>~/CargaPacientes.aspx</BrowseToURL>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABMLmedico.aspx.cs">
+      <DependentUpon>ABMLmedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ABMLmedico.aspx.designer.cs">
+      <DependentUpon>ABMLmedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ABMLpacientes.aspx.cs">
+      <DependentUpon>ABMLpacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ABMLpacientes.aspx.designer.cs">
+      <DependentUpon>ABMLpacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ABMLturnos.aspx.cs">
+      <DependentUpon>ABMLturnos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ABMLturnos.aspx.designer.cs">
+      <DependentUpon>ABMLturnos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador.aspx.cs">
+      <DependentUpon>Administrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrador.aspx.designer.cs">
+      <DependentUpon>Administrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarTurnos.aspx.cs">
+      <DependentUpon>AgregarTurnos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AgregarTurnos.aspx.designer.cs">
+      <DependentUpon>AgregarTurnos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AltaMedico.aspx.cs">
+      <DependentUpon>AltaMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AltaMedico.aspx.designer.cs">
+      <DependentUpon>AltaMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="altaMedicoHorario.aspx.cs">
+      <DependentUpon>altaMedicoHorario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="altaMedicoHorario.aspx.designer.cs">
+      <DependentUpon>altaMedicoHorario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AltaUsuarioNuevo.aspx.cs">
+      <DependentUpon>AltaUsuarioNuevo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AltaUsuarioNuevo.aspx.designer.cs">
+      <DependentUpon>AltaUsuarioNuevo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BajaLogicaMedico.aspx.cs">
+      <DependentUpon>BajaLogicaMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BajaLogicaMedico.aspx.designer.cs">
+      <DependentUpon>BajaLogicaMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bajaLogicaPacientes.aspx.cs">
+      <DependentUpon>bajaLogicaPacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bajaLogicaPacientes.aspx.designer.cs">
+      <DependentUpon>bajaLogicaPacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BajaLogicaTurno.aspx.cs">
+      <DependentUpon>BajaLogicaTurno.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BajaLogicaTurno.aspx.designer.cs">
+      <DependentUpon>BajaLogicaTurno.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CargaPacientes.aspx.cs">
+      <DependentUpon>CargaPacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CargaPacientes.aspx.designer.cs">
+      <DependentUpon>CargaPacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformesPaciente.aspx.cs">
+      <DependentUpon>InformesPaciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InformesPaciente.aspx.designer.cs">
+      <DependentUpon>InformesPaciente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoPacientes.aspx.cs">
+      <DependentUpon>ListadoPacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListadoPacientes.aspx.designer.cs">
+      <DependentUpon>ListadoPacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoTurnos.aspx.cs">
+      <DependentUpon>ListadoTurnos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListadoTurnos.aspx.designer.cs">
+      <DependentUpon>ListadoTurnos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarAltaMedicoHorario.aspx.cs">
+      <DependentUpon>ListarAltaMedicoHorario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarAltaMedicoHorario.aspx.designer.cs">
+      <DependentUpon>ListarAltaMedicoHorario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListarMedico.aspx.cs">
+      <DependentUpon>ListarMedico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListarMedico.aspx.designer.cs">
+      <DependentUpon>ListarMedico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroMedicos.Master.cs">
+      <DependentUpon>MaestroMedicos.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaestroMedicos.Master.designer.cs">
+      <DependentUpon>MaestroMedicos.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroMenu.Master.cs">
+      <DependentUpon>MaestroMenu.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaestroMenu.Master.designer.cs">
+      <DependentUpon>MaestroMenu.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MaestroPacientes.Master.cs">
+      <DependentUpon>MaestroPacientes.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaestroPacientes.Master.designer.cs">
+      <DependentUpon>MaestroPacientes.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Medico.aspx.cs">
+      <DependentUpon>Medico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Medico.aspx.designer.cs">
+      <DependentUpon>Medico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MaestroMenu.Master" />
+    <Content Include="MaestroMedicos.Master" />
+    <Content Include="MaestroPacientes.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{3f6d5eed-18e1-4962-b4bb-23d1c19a4b6e}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{1b8752ce-ac8c-460c-a426-1fc41cabd380}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{a5dc8a29-0e56-4438-851a-8a69a29d8e6d}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50793</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44306/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

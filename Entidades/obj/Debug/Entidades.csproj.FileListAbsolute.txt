@@ -1,0 +1,186 @@
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\OneDrive - frgp.utn.edu.ar\Escritorio\UTN\CURSANDO\LEGISLACION\integrador\TPFinal-PROGIII-Grupo6\TPINT_GRUPO6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V3\TPINT_GRUPO6_V3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Desktop\tpfinal\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V5\TPINT_GRUPO6.V4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V\TPINT_GRUPO6.V6\Entidades\obj\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6. V8\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6. V9\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V11\Entidades\obj\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V15\Entidades\obj\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6.V19\TPINT_GRUPO6_V18\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V21\Entidades\obj\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\VisualTPINT\TPINT_GRUPO6_V22\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\TPINT_GRUPO6_V23\TPINT_GRUPO6_V23\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tp final\tpfinal\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V1\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.dll
+C:\Users\judhit\Desktop\utn\cursando\prog\tercera entrega TPINT\TPINT_GRUPO6_PR3\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V6___\TPINT_GRUPO6_PR3_v6\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V7\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\TPINT_GRUPO6_V8\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V13\TPINT_GRUPO6_V13\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V18\TPINT_GRUPO6_V17\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Desktop\tp\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\bin\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\bin\Debug\Entidades.pdb
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.dll
+C:\Users\celin\OneDrive\Escritorio\UTN\Programación 3\TPINT_GRUPO6_V19\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\OneDrive\Escritorio\versiones tpfinalultima\TPINT_GRUPO6_V24\TPINT_GRUPO6_V24\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V26\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias duran\Desktop\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.dll
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.dll
+C:\Users\dani_\Desktop\ads\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\bin\Debug\Entidades.pdb
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.dll
+C:\Users\LENOVO\Desktop\vesiones tp final\TPINT_DANI\TPINT_GRUPO6_V27\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MaestroMenu.master.cs" Inherits="TPINT_GRUPO_6_PR3_V1_.MaestroMenu" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>MENU ADMINISTRADOR</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">       
+        
+    </asp:ContentPlaceHolder>
+   
+    <link rel="stylesheet" href="Css/masterPage.css" />
+  
+    
+  
+    <style type="text/css">
+        .auto-style19 {
+            float: left;
+            height: 464px;
+            width: 1056px;
+            margin-left: 0px;
+        }
+        .auto-style20 {
+            text-align: center;
+        }
+    </style>
+  
+    
+  
+</head>
+<body>    
+    <form id="form1" runat="server">
+        <div class="auto-style20">   
+            <div class="navbar">
+                 <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ABMLpacientes.aspx">Gestion Pacientes</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/ABMLmedico.aspx">Gestion Medicos</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/ABMLturnos.aspx">Gestion Turnos</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/InformesPaciente.aspx" >Informes</asp:HyperLink>
+                     
+                 <asp:Label ID="lbl_UsuarioMaster" runat="server" ></asp:Label>
+                     
+            </div>
+            
+
+            <div class="turnos">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <asp:Button ID="btn_cerrar" runat="server" Text="cerrar sesión" CssClass="turnosBoton" OnClick="btn_cerrar_Click" />
+    
+    </div>
+            <!--aca  entre medio de ContentPlaceHolder va encerrado el codigo a fururo -->
+             <asp:ContentPlaceHolder  ID="ContentPlaceHolder1" runat="server">
+                
+             </asp:ContentPlaceHolder>
+           
+    </form>
+</body>
+</html>
